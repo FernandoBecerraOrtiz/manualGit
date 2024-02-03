@@ -1,0 +1,10 @@
+# Ignorar todos los archivos dentro de la carpeta bin/
+# que está situada en la raiz del proyecto
+
+bin/
+
+# Ignorar todos los archivoscon extensión .bin
+
+*.bin
+
+
